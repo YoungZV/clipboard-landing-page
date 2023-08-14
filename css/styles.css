@@ -61,7 +61,7 @@ body {
     gap: 1rem;
 }
 
-.button {
+.btn {
     width: 100%;
     padding: 1.2rem 0 1.2rem 0;
     border: none;
@@ -93,6 +93,8 @@ body {
     cursor: pointer;
 }
 
+/* MAIN */
+
 
 
 /* Second part - */
@@ -110,7 +112,7 @@ body {
 }
 
 
-/* Third part - MAIN */
+/* Third part -  */
 
 
 
